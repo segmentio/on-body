@@ -1,7 +1,6 @@
-
 # on-body
 
-  Component: calls back when `document.body` exists.
+  Callback when `document.body` exists.
 
 ## Installation
 
