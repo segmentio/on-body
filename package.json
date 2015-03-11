@@ -1,0 +1,22 @@
+{
+  "name": "on-body",
+  "version": "0.0.1",
+  "description": "Component: calls back after document.body exists.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/segmentio/on-body.git"
+  },
+  "author": "Ian Storm Taylor <ian@ianstormtaylor.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/segmentio/on-body/issues"
+  },
+  "browser": {
+    "each": "component-each"
+  },
+  "homepage": "https://github.com/segmentio/on-body",
+  "dependencies": {
+    "component-each": "*"
+  }
+}
